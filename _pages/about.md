@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "WHY HELLO THERE!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-WHY HELLO! It seems to have stubmled acorss my website in the making. Welcome!
+It seems to have stubmled acorss my website in the making. Welcome!
 
 I'm a 20 something year old molecular biologist in training. I have been studying plants for over a third of my life in various capacities: evolutionary plant biology, sustainable plant agriculture and most recently, genetics and signaling pathways. 
 
