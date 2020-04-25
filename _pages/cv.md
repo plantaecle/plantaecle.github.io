@@ -12,29 +12,32 @@ redirect_from:
 Education
 ======
 * B.S. in Biology, McMaster University, 2013
-* M.S. in, University of Guelph, 2015
+* M.S. in Plant Agriculture, University of Guelph, 2015
 * Ph.D in Plant molecular biology, University of Toronto, 2021 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Ontario Ministry of Agriculture, Food and Rural Affairs
+  * Duties included: HQP scholarship student
+  * Supervisor: Dr. Jim Todd
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * University of Guelph
+  * Duties included: Analyzing data and writing papers
+  * Supervisor: Dr. Rene Van Acker
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis: Excel and SAS statistical software
+* Molecular biology techniques
+  * DNA and RNA extraction
+  * PCR
+  * confocal microscopy
+  * SDS-PAGE
+  * molecular cloning
+  * sterile culture techniques
+*	Experimental design: Designing and conducting small and large-scale field experiments
 
 Publications
 ======
@@ -48,12 +51,17 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching assitantship
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * BIO130
+  * Ran undergraduate labs for first year students, taught student’s basic lab techniques and etiquettes through the course
+ * BIO230
+  * Ran undergraduate labs for second year students. As a head TA for his course Fall 2019, I helped train TAs to run their labs, revised lab notes/quizzes/presentations, and received feedback from TAs on ways to improve the course 
+ * CSB353
+  * Assisted with marking assignments, midterms and exams. I also invigilated midterms and exams
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Cell & Systems Biology
+  * Science Rendezvous 2018, Cell & Systems Research Day 2018, CUPE rep 2017-2018, Ombudsperson 2016-2017, Graduate Student
+And Post Doc Seminar Series Organizing Committee
