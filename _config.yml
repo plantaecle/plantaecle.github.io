@@ -90,10 +90,6 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
   foursquare       :
   github           : "plantaecle"
@@ -101,8 +97,8 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  goodreads        : "soncha90"
+  linkedin         : "https://www.linkedin.com/in/sonhita-chakraborty-2b17b830/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -111,8 +107,6 @@ author:
   tumblr           :
   twitter          : "qwertess"
   vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
