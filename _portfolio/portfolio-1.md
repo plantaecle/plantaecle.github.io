@@ -1,7 +1,7 @@
 ---
 title: "My visual art"
-excerpt: "Sample pencil sketches and water colour paintings <br/><img src='/images/500x300.png'>"
+excerpt: "Sample pencil sketches and water colour paintings <br/><img src='/images/social-distancing.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/social-distancing.jpg'>
