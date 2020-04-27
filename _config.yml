@@ -86,29 +86,16 @@ author:
   location         : "Toronto ON"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=chakraborty+sonhita&oq=s"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  facebook         :
-  foursquare       :
+  researchgate     : "https://www.researchgate.net/profile/Sonhita_Chakraborty"
   github           : "plantaecle"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  goodreads        : "soncha90"
-  linkedin         : "https://www.linkedin.com/in/sonhita-chakraborty-2b17b830/"
+  goodreads        : "https://www.goodreads.com/user/show/7220707-sonhita"
+  linkedin         : "sonhita-chakraborty"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
   twitter          : "qwertess"
-  vine             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
