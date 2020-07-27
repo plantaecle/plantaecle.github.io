@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Future work"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/post
 venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+date: 2021-03-01
+location: "?"
 ---
 
 [More information here](http://exampleurl.com)
