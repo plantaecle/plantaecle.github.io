@@ -53,11 +53,11 @@ Talks
   
 Teaching assitantship
 ======
- BIO130
+*	BIO130
   * Ran undergraduate labs for first year students, taught student’s basic lab techniques and etiquettes through the course
- BIO230
+*	BIO230
   * Ran undergraduate labs for second year students. As a head TA for his course Fall 2019, I helped train TAs to run their labs, revised lab notes/quizzes/presentations, and received feedback from TAs on ways to improve the course 
- CSB353
+*	CSB353
   * Assisted with marking assignments, midterms and exams. I also invigilated midterms and exams
   
 Service and leadership
