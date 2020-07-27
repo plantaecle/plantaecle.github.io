@@ -4,7 +4,7 @@ collection: talks
 type: "Doctoral thesis"
 permalink: /talks/uoft
 venue: "University of Toronto, Toronto"
-date: 2014-02-01
+date: 2020-02-01
 location: "Toronto ON"
 ---
 
