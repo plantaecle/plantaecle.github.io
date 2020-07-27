@@ -1,7 +1,7 @@
 ---
 title: "Investigation of C. pauciflorus and E. lagascae as sources of vernolic acid"
 collection: talks
-type: "Conference proceedings talk"
+type: "MSc Research Project and OMAFRA job shadow"
 permalink: /talks/guelph
 venue: "University of Guelph, Guelph"
 date: 2015-03-01
