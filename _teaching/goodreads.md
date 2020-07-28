@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+title: "Goodreads"
+collection: projects
+type: "Books"
+permalink: /projects/goodreads
+venue: "mt brain"
 date: 2014-01-01
 location: "City, Country"
 ---
