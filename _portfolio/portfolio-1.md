@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 <img src='/images/cell-.jpg'>
+<img src='/images/cabin-.jpg'>
+<img src='/images/spy-.jpg'>
