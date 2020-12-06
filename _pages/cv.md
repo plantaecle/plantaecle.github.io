@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* Data analysis: Excel and SAS statistical software
+* Data analysis: Excel, SAS statistical software, SPSS
 * Molecular biology techniques
   * DNA and RNA extraction
   * PCR
@@ -53,17 +53,18 @@ Talks
   
 Teaching assitantship
 ======
-*	BIO130
+* BIO130
   * Ran undergraduate labs for first year students, taught student’s basic lab techniques and etiquettes through the course
-*	BIO230
+* BIO230
   * Ran undergraduate labs for second year students. As a head TA for his course Fall 2019, I helped train TAs to run their labs, revised lab notes/quizzes/presentations, and received feedback from TAs on ways to improve the course 
 *	CSB353
   * Assisted with marking assignments, midterms and exams. I also invigilated midterms and exams
   
 Service and leadership
 ======
-Cell & Systems Biology
-  * Forefront newsletter content writer 2020
+* Cell & Systems Biology
+  * Academic Advisory Committee 2020
+  * Forefront newsletter editor and content creator 2020
   * Science Rendezvous 2018
   * Cell & Systems Research Day 2018
   * CUPE rep 2017-2018
